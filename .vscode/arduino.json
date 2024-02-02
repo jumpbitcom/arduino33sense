@@ -1,6 +1,6 @@
 {
     "board": "arduino:mbed_nano:nano33ble",
-    "sketch": "bluetooth\\scan.ino",
-    "port": "COM7",
+    "sketch": "bluetooth/bluetooth.ino",
+    "port": "/dev/tty.usbmodem14101",
     "programmer": "cmsis-dap"
 }
