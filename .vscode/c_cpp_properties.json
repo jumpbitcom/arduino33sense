@@ -29,7 +29,7 @@
             "includePath": [
                 "/Users/mwn/Library/Arduino15/packages/arduino/hardware/mbed_nano/4.0.10/cores/arduino",
                 "/Users/mwn/Library/Arduino15/packages/arduino/hardware/mbed_nano/4.0.10/variants/ARDUINO_NANO33BLE",
-                "/Users/mwn/Documents/Arduino/libraries/ArduinoBLE/src",
+                "/Users/mwn/Data/Arduino/libraries/ArduinoBLE/src",
                 "/Users/mwn/Library/Arduino15/packages/arduino/hardware/mbed_nano/4.0.10/cores/arduino/api/deprecated",
                 "/Users/mwn/Library/Arduino15/packages/arduino/hardware/mbed_nano/4.0.10/cores/arduino/api/deprecated-avr-comp",
                 "/Users/mwn/Library/Arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/arm-none-eabi/include/c++/7.2.1",
@@ -499,7 +499,26 @@
                 "__ATOMIC_ACQ_REL=4",
                 "__ATOMIC_RELEASE=3",
                 "USBCON"
-            ]
+            ],
+            "compilerPathInCppPropertiesJson": "/Users/mwn/Library/Arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/arm-none-eabi-g++",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "/Users/mwn/Library/Arduino15/packages/arduino/hardware/mbed_nano/4.0.10/cores/arduino",
+                    "/Users/mwn/Library/Arduino15/packages/arduino/hardware/mbed_nano/4.0.10/variants/ARDUINO_NANO33BLE",
+                    "/Users/mwn/Documents/Arduino/libraries/ArduinoBLE/src",
+                    "/Users/mwn/Library/Arduino15/packages/arduino/hardware/mbed_nano/4.0.10/cores/arduino/api/deprecated",
+                    "/Users/mwn/Library/Arduino15/packages/arduino/hardware/mbed_nano/4.0.10/cores/arduino/api/deprecated-avr-comp",
+                    "/Users/mwn/Library/Arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/arm-none-eabi/include/c++/7.2.1",
+                    "/Users/mwn/Library/Arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/arm-none-eabi/include/c++/7.2.1/arm-none-eabi",
+                    "/Users/mwn/Library/Arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/arm-none-eabi/include/c++/7.2.1/backward",
+                    "/Users/mwn/Library/Arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/lib/gcc/arm-none-eabi/7.2.1/include",
+                    "/Users/mwn/Library/Arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/lib/gcc/arm-none-eabi/7.2.1/include-fixed",
+                    "/Users/mwn/Library/Arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/arm-none-eabi/include",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
         }
     ]
 }
